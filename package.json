@@ -1,5 +1,5 @@
 {
-  "name": "push-receiver",
+  "name": "hs-push-receiver",
   "version": "2.1.1",
   "description":
     "A module to subscribe to GCM/FCM and receive notifications within a node process.",
